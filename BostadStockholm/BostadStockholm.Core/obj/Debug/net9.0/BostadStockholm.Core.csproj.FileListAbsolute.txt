@@ -1,0 +1,12 @@
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\bin\Debug\net9.0\BostadStockholm.Core.deps.json
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\bin\Debug\net9.0\BostadStockholm.Core.dll
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\bin\Debug\net9.0\BostadStockholm.Core.pdb
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.csproj.AssemblyReference.cache
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.AssemblyInfoInputs.cache
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.AssemblyInfo.cs
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.csproj.CoreCompileInputs.cache
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.dll
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\refint\BostadStockholm.Core.dll
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.pdb
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\ref\BostadStockholm.Core.dll

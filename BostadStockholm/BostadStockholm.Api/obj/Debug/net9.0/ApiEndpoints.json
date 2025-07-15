@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "BostadStockholm.Api.Controllers.ApartmentsController",
+    "Method": "GetApartmentById",
+    "RelativePath": "api/Apartments/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BostadStockholm.Api.Controllers.ApartmentsController",
+    "Method": "Apply",
+    "RelativePath": "api/Apartments/{id}/apply",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BostadStockholm.Api.Controllers.ApartmentsController",
+    "Method": "GetAvailableApartments",
+    "RelativePath": "api/Apartments/available",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

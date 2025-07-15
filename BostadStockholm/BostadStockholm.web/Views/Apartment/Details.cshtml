@@ -1,0 +1,20 @@
+@model BostadStockholm.Core.Entities.Apartment
+
+@{
+    ViewData["Title"]="Apartment Details";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h2>@Model.Property?.Address</h2>
+    <p><strong>Rooms:</strong> @Model.Rooms</p>
+    <p><strong>Area:</strong> @Model.Area m²</p>
+    <p><strong>Rent:</strong> @Model.MonthlyRent SEK/month</p>
+    <p><strong>Floor:</strong> @Model.Floor</p>
+    <p><strong>Balcony:</strong> @(Model.HasBalcony ? "Yes" : "No")</p>
+    <p><strong>Available From:</strong> @Model.AvailableFrom?.ToString("yyyy-MM-dd")</p>
+    <p><strong>Description:</strong> @Model.Description</p>
+</div>
+
+<a asp-controller="Apartment" asp-action="Index" class="btn btn-secondary">Back to Listings</a> 

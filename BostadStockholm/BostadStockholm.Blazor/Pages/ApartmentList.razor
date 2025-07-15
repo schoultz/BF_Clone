@@ -1,0 +1,90 @@
+@page "/apartments"
+@inject HttpClient Http
+@attribute [Authorize]
+
+//using System.Net.Http.Json;
+
+<h3>Available Apartments</h3>
+
+@if (apartments == null)
+{
+    <p><em>Loading...</em></p>
+}
+else if (!apartments.Any())
+{
+    <p>No apartments available at the moment.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Address</th>
+                <th>Rooms</th>
+                <th>Area</th>
+                <th>Rent</th>
+                <th>Available From</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var apt in apartments)
+            {
+                <tr>
+                    <td>@apt.Address</td>
+                    <td>@apt.Rooms</td>
+                    <td>@apt.Area m²</td>
+                    <td>@apt.MonthlyRent SEK</td>
+                    <td>@apt.AvailableFrom?.ToString("yyyy-MM-dd")</td>
+                    <td>
+                        <button class="btn btn-sm btn-success" @onclick="() => ApplyToApartment(apt.Id)">Apply</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+@if (!string.IsNullOrWhiteSpace(applicationMessage))
+{
+    <div class="alert alert-info mt-3">@applicationMessage</div>
+}
+
+@code {
+    private List<ApartmentDto> apartments;
+    private string applicationMessage;
+ 
+    //REPLACE USER ID - Replace this with actual user logic
+    private Guid userId = Guid.Parse("REPLACE-WITH-USER-ID");
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            apartments = await Http.GetFromJsonAsync<List<ApartmentDto>>("api/apartments/available");
+        }
+        catch (Exception ex)
+        {
+            Console.Error.WriteLine("Error loading apartments:" + ex.Message);
+        }
+    }
+
+    private async Task ApplyToApartment(Guid apartmentId)
+    {
+        try
+        {
+            var response = await Http.PostAsync($"api/apartments/{apartmentId}/apply?userId={userId}", null);
+            if (response.IsSuccessStatusCode)
+            {
+                applicationMessage = "Application submitted successfully.";
+            }
+            else
+            {
+                applicationMessage = $"Application failed: {response.StatusCode}";
+            }
+        }
+        catch (Exception ex)
+        {
+            applicationMessage = "Error submitting application: " + ex.Message;
+        }
+    }
+}

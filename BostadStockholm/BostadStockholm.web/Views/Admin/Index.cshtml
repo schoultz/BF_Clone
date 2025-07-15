@@ -1,0 +1,40 @@
+<!--model IEnumerable<Microsoft.AspNetCore.Identity.IdentityUser>-->
+@model IEnumerable<BostadStockholm.web.Models.AdminDashboardUserViewModel>
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+<h1>Admin Dashboard</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.User.Email</td>
+                <td>
+                    @if (!item.IsAdmin)
+                    {
+                    <form asp-action="AddAdminRole" method="post" style="display:inline">
+                        <input type="hidden" name="userId" value="@item.User.Id" />
+                        <!--Phase 17, Step 5.1.a - Admin Dashboard and User Role Management: Fix the Admin Dashboard: Made Admin Confirmation -->
+                        <button type="submit" class="btn btn-sm btn-success" onclick="return confirm('Do you want to make this user an admin?')">Make Admin</button>
+                    
+                    </form>
+                    }
+                    else
+                    {
+                    <form asp-action="RemoveAdminRole" method="post" style="display:inline">
+                        <input type="hidden" name="userId" value="@item.User.Id" />
+                        <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Do you want to remove admin from this user?')">Remove Admin</button>
+                    </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

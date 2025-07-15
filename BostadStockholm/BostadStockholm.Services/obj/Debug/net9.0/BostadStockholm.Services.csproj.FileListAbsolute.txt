@@ -1,0 +1,17 @@
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\bin\Debug\net9.0\BostadStockholm.Services.deps.json
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\bin\Debug\net9.0\BostadStockholm.Services.dll
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\bin\Debug\net9.0\BostadStockholm.Services.pdb
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\bin\Debug\net9.0\BostadStockholm.Core.dll
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\bin\Debug\net9.0\BostadStockholm.Data.dll
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\bin\Debug\net9.0\BostadStockholm.Core.pdb
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\bin\Debug\net9.0\BostadStockholm.Data.pdb
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\BostadStockholm.Services.csproj.AssemblyReference.cache
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\BostadStockholm.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\BostadStockholm.Services.AssemblyInfoInputs.cache
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\BostadStockholm.Services.AssemblyInfo.cs
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\BostadStockholm.Services.csproj.CoreCompileInputs.cache
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\BostadSt.921A4702.Up2Date
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\BostadStockholm.Services.dll
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\refint\BostadStockholm.Services.dll
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\BostadStockholm.Services.pdb
+D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Services\obj\Debug\net9.0\ref\BostadStockholm.Services.dll

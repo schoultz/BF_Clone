@@ -1,0 +1,32 @@
+$primary-color: #005aa7;
+$secondary-color: #00d4ff;
+$font-stack: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+body {
+    font-family: $font-stack;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+h1, h2, h3 {
+    color: $primary-color;
+}
+
+.table-striped > tbody > tr:nth-of-type(odd){
+    background-color: #f2f2f2;
+}
+
+.btn-primary {
+    background-color: $primary-color;
+    border-color: $primary-color;
+    &:hover {
+        background-color: darken($primary-color, 10%);
+    }
+}
+.btn-secondary {
+    background-color: $secondary-color;
+    border-color: $secondary-color;
+    &:hover{
+        background-color: darken($secondary-color, 10%);
+    }
+}

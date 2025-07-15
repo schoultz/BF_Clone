@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Lt4o2nasN0cKN5WnZNkQPcXWrP5aZ6uBga4qGIJz5LA=",
+  "Source": "BostadStockholm.Api",
+  "BasePath": "_content/BostadStockholm.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

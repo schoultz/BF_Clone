@@ -1,0 +1,1355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ella.schoultz\\Documents\\BostadStockholm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Home\\Error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Views\\Home\\Error404.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\BostadStockholm.Api.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\BostadStockholm.Api.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\obj\\BostadStockholm.Data.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\obj\\BostadStockholm.Data.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\obj\\Debug\\net9.0\\blazor.boot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\obj\\Debug\\net9.0\\blazor.boot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\NuGet.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NuGet.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Services\\UserActivityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Services\\UserActivityService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Core\\Entities\\Apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Core\\Entities\\Property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\News.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Core\\Entities\\News.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Core\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Core\\Entities\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\Implementations\\ApartmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Services\\Implementations\\ApartmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Models\\ApartmentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\Models\\ApartmentDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Models\\UserActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Models\\UserActivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Views\\Shared\\Error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Models\\AdminDashboardUserViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Models\\AdminDashboardUserViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Account\\AccessDenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Views\\Account\\AccessDenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Views\\Admin\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Services\\DummyEmailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Services\\DummyEmailSender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Pages\\Home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\Pages\\Home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Apartment\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Views\\Apartment\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Views\\Shared\\_LoginPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Shared\\_StatusMessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Areas\\Identity\\Pages\\Shared\\_StatusMessage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\AreaMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Mappings\\AreaMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\App.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\App.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Pages\\ApartmentList.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\Pages\\ApartmentList.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\BostadStockholm.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\BostadStockholm.Api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\BostadStockholm.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\BostadStockholm.Api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\_Imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\_Imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Web\\BostadStockholm.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Web\\BostadStockholm.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\Controllers\\ApartmentsController.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Api\\Controllers\\ApartmentsController.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\NHibernateHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\NHibernateHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Layout\\NavMenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Blazor\\Layout\\NavMenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\Interfaces\\IApartmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Services\\Interfaces\\IApartmentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Apartment\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.web\\Views\\Apartment\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Core\\Entities\\Area.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\BostadStockholm.Services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Services\\BostadStockholm.Services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\HousingType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Core\\Entities\\HousingType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Core\\BostadStockholm.Core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\BostadStockholm.Data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Interfaces\\IReporsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Interfaces\\IReporsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\UserMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Mappings\\UserMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\ApartmentMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Mappings\\ApartmentMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\PropertyMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Mappings\\PropertyMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\NewsMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Mappings\\NewsMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\ApplicationMap.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Mappings\\ApplicationMap.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\HousingTypeMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Mappings\\HousingTypeMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BostadStockholm.Data\\Repositories\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BostadStockholm.web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T09:00:29.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Program.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Program.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Program.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAkwB4AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:19:31.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\appsettings.json",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\appsettings.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\appsettings.json",
+              "RelativeToolTip": "BostadStockholm.web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T09:44:34.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Apartment.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Core\\Entities\\Apartment.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Apartment.cs",
+              "RelativeToolTip": "BostadStockholm.Core\\Entities\\Apartment.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:14:12.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Property.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Property.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Core\\Entities\\Property.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Property.cs",
+              "RelativeToolTip": "BostadStockholm.Core\\Entities\\Property.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T07:50:46.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Core\\Entities\\News.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\News.cs",
+              "RelativeToolTip": "BostadStockholm.Core\\Entities\\News.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:28:30.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Core\\Entities\\User.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\User.cs",
+              "RelativeToolTip": "BostadStockholm.Core\\Entities\\User.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:06:03.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Application.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Core\\Entities\\Application.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Application.cs",
+              "RelativeToolTip": "BostadStockholm.Core\\Entities\\Application.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:21:54.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.json",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.json",
+              "RelativeToolTip": "BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-18T09:44:31.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserActivityService.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Services\\UserActivityService.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Services\\UserActivityService.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Services\\UserActivityService.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Services\\UserActivityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T08:29:53.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApartmentService.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\Implementations\\ApartmentService.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Services\\Implementations\\ApartmentService.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\Implementations\\ApartmentService.cs",
+              "RelativeToolTip": "BostadStockholm.Services\\Implementations\\ApartmentService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAC0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:19:52.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApartmentDto.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Models\\ApartmentDto.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\Models\\ApartmentDto.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Models\\ApartmentDto.cs",
+              "RelativeToolTip": "BostadStockholm.Blazor\\Models\\ApartmentDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:07:25.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserActivity.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Models\\UserActivity.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Models\\UserActivity.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Models\\UserActivity.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Models\\UserActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T07:25:04.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAD4vz8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:45:29.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:50:16.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:48:45.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T07:14:40.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error404.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Home\\Error404.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Views\\Home\\Error404.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Home\\Error404.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Views\\Home\\Error404.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-14T07:52:14.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminDashboardUserViewModel.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Models\\AdminDashboardUserViewModel.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Models\\AdminDashboardUserViewModel.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Models\\AdminDashboardUserViewModel.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Models\\AdminDashboardUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:54:44.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T07:58:21.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T08:46:20.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-03T08:26:08.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:11:52.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAqwFcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:33:51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T08:09:45.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T06:45:08.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T07:56:14.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwEwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:33:35.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DummyEmailSender.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Services\\DummyEmailSender.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Services\\DummyEmailSender.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Services\\DummyEmailSender.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Services\\DummyEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:35:46.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T06:16:27.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T07:10:48.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "BostadStockholm.web\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwB4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:19:00.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\Pages\\Home.razor",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Pages\\Home.razor",
+              "RelativeToolTip": "BostadStockholm.Blazor\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T09:18:24.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\wwwroot\\index.html",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\wwwroot\\index.html",
+              "RelativeToolTip": "BostadStockholm.Blazor\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-30T09:16:11.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Apartment\\Index.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Views\\Apartment\\Index.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Apartment\\Index.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Views\\Apartment\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T11:28:42.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T09:11:42.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_StatusMessage.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Shared\\_StatusMessage.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Areas\\Identity\\Pages\\Shared\\_StatusMessage.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Areas\\Identity\\Pages\\Shared\\_StatusMessage.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Areas\\Identity\\Pages\\Shared\\_StatusMessage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T08:04:12.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\wwwroot\\appsettings.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\wwwroot\\appsettings.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\wwwroot\\appsettings.json",
+              "RelativeToolTip": "BostadStockholm.Blazor\\wwwroot\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T06:28:45.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\appsettings.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\appsettings.json",
+              "RelativeToolTip": "BostadStockholm.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T08:24:05.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Class1.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Class1.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:38:06.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AreaMap.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\AreaMap.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Mappings\\AreaMap.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\AreaMap.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Mappings\\AreaMap.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T06:49:36.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\App.razor",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\App.razor",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\App.razor",
+              "RelativeToolTip": "BostadStockholm.Blazor\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T07:43:07.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApartmentList.razor",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Pages\\ApartmentList.razor",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\Pages\\ApartmentList.razor",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Pages\\ApartmentList.razor",
+              "RelativeToolTip": "BostadStockholm.Blazor\\Pages\\ApartmentList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T06:33:26.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Program.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\Program.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Program.cs",
+              "RelativeToolTip": "BostadStockholm.Blazor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T07:29:49.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BostadStockholm.Blazor\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T12:43:25.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\Program.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\Program.cs",
+              "RelativeToolTip": "BostadStockholm.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:46:15.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\obj\\project.assets.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\obj\\project.assets.json",
+              "RelativeToolTip": "BostadStockholm.Data\\obj\\project.assets.json",
+              "ViewState": "AgIAALQLAAAAAAAAAAAiwMkLAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T08:39:45.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\wwwroot\\css\\app.css",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BostadStockholm.Blazor\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-19T06:27:28.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BostadStockholm.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-10T12:44:15.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\appsettings.Development.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\appsettings.Development.json",
+              "RelativeToolTip": "BostadStockholm.web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T08:57:44.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.Development.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.Development.json",
+              "RelativeToolTip": "BostadStockholm.web\\bin\\Debug\\net9.0\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T09:14:03.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\appsettings.Development.json",
+              "RelativeToolTip": "BostadStockholm.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T08:24:03.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "BostadStockholm.Api.http",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\BostadStockholm.Api.http",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\BostadStockholm.Api.http",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\BostadStockholm.Api.http",
+              "RelativeToolTip": "BostadStockholm.Api\\BostadStockholm.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-23T08:53:43.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "BostadStockholm.Api.csproj",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\BostadStockholm.Api.csproj",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\BostadStockholm.Api.csproj",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\BostadStockholm.Api.csproj",
+              "RelativeToolTip": "BostadStockholm.Api\\BostadStockholm.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-10T12:56:55.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BostadStockholm.Api.csproj.user",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\BostadStockholm.Api.csproj.user",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\BostadStockholm.Api.csproj.user",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\BostadStockholm.Api.csproj.user",
+              "RelativeToolTip": "BostadStockholm.Api\\BostadStockholm.Api.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-06-23T08:58:14.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\_Imports.razor",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\_Imports.razor",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\_Imports.razor",
+              "RelativeToolTip": "BostadStockholm.Blazor\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T08:58:55.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BostadStockholm.Blazor.csproj.user",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj.user",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj.user",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj.user",
+              "RelativeToolTip": "BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-06-23T08:58:52.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "BostadStockholm.Blazor.csproj",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj",
+              "RelativeToolTip": "BostadStockholm.Blazor\\BostadStockholm.Blazor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T06:37:36.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BostadStockholm.web.csproj",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\BostadStockholm.web.csproj",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\BostadStockholm.web.csproj",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\BostadStockholm.web.csproj",
+              "RelativeToolTip": "BostadStockholm.web\\BostadStockholm.web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T11:19:28.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ApartmentsController.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\Controllers\\ApartmentsController.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\Controllers\\ApartmentsController.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\Controllers\\ApartmentsController.cs",
+              "RelativeToolTip": "BostadStockholm.Api\\Controllers\\ApartmentsController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T08:43:47.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "NHibernateHelper.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\NHibernateHelper.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\NHibernateHelper.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\NHibernateHelper.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\NHibernateHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAtwA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:47:17.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "BostadStockholm.Blazor\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T07:30:00.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "IApartmentService.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\Interfaces\\IApartmentService.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Services\\Interfaces\\IApartmentService.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\Interfaces\\IApartmentService.cs",
+              "RelativeToolTip": "BostadStockholm.Services\\Interfaces\\IApartmentService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T11:19:51.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Apartment\\Details.cshtml",
+              "RelativeDocumentMoniker": "BostadStockholm.web\\Views\\Apartment\\Details.cshtml",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.web\\Views\\Apartment\\Details.cshtml",
+              "RelativeToolTip": "BostadStockholm.web\\Views\\Apartment\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T11:28:29.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Area.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Area.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Core\\Entities\\Area.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\Area.cs",
+              "RelativeToolTip": "BostadStockholm.Core\\Entities\\Area.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:00:06.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "BostadStockholm.Services.csproj",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\BostadStockholm.Services.csproj",
+              "RelativeDocumentMoniker": "BostadStockholm.Services\\BostadStockholm.Services.csproj",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\BostadStockholm.Services.csproj",
+              "RelativeToolTip": "BostadStockholm.Services\\BostadStockholm.Services.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T11:19:49.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "HousingType.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\HousingType.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Core\\Entities\\HousingType.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\Entities\\HousingType.cs",
+              "RelativeToolTip": "BostadStockholm.Core\\Entities\\HousingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:11:01.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "BostadStockholm.Core.csproj",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj",
+              "RelativeDocumentMoniker": "BostadStockholm.Core\\BostadStockholm.Core.csproj",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj",
+              "RelativeToolTip": "BostadStockholm.Core\\BostadStockholm.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T11:56:58.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BostadStockholm.Data.csproj",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\BostadStockholm.Data.csproj",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj",
+              "RelativeToolTip": "BostadStockholm.Data\\BostadStockholm.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T11:53:22.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IReporsitory.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Interfaces\\IReporsitory.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Interfaces\\IReporsitory.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Interfaces\\IReporsitory.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Interfaces\\IReporsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:32:14.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BostadStockholm.Api.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.dgspec.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAWwPgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T08:32:48.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BostadStockholm.Api.csproj.nuget.g.targets",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.g.targets",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.g.targets",
+              "RelativeToolTip": "BostadStockholm.Api\\obj\\BostadStockholm.Api.csproj.nuget.g.targets",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-12T08:35:28.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BostadStockholm.Data.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\obj\\BostadStockholm.Data.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\obj\\BostadStockholm.Data.csproj.nuget.dgspec.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\obj\\BostadStockholm.Data.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "BostadStockholm.Data\\obj\\BostadStockholm.Data.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T08:39:30.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "blazor.boot.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\obj\\Debug\\net9.0\\blazor.boot.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\obj\\Debug\\net9.0\\blazor.boot.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\obj\\Debug\\net9.0\\blazor.boot.json",
+              "RelativeToolTip": "BostadStockholm.Blazor\\obj\\Debug\\net9.0\\blazor.boot.json",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAWwPgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T08:35:13.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UserMap.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\UserMap.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Mappings\\UserMap.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\UserMap.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Mappings\\UserMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:55:49.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NuGet.config",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\NuGet.config",
+              "RelativeDocumentMoniker": "NuGet.config",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\NuGet.config",
+              "RelativeToolTip": "NuGet.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-12T06:20:20.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ApartmentMap.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\ApartmentMap.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Mappings\\ApartmentMap.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\ApartmentMap.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Mappings\\ApartmentMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:22:33.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "PropertyMap.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\PropertyMap.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Mappings\\PropertyMap.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\PropertyMap.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Mappings\\PropertyMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:44:57.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "NewsMap.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\NewsMap.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Mappings\\NewsMap.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\NewsMap.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Mappings\\NewsMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:26:07.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ApplicationMap.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\ApplicationMap.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Mappings\\ApplicationMap.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\ApplicationMap.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Mappings\\ApplicationMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:00:36.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "HousingTypeMap.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\HousingTypeMap.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Mappings\\HousingTypeMap.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Mappings\\HousingTypeMap.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Mappings\\HousingTypeMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T07:24:13.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "blazor.boot.json",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
+              "RelativeDocumentMoniker": "BostadStockholm.Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
+              "RelativeToolTip": "BostadStockholm.Blazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwC8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-12T06:40:03.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "BostadStockholm.Data\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "BostadStockholm.Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T06:39:07.437Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

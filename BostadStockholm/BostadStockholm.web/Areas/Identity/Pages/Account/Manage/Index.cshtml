@@ -1,0 +1,45 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Profile";
+    ViewData["ActivePage"] = ManageNavPages.Index;
+}
+
+<h3>@ViewData["Title"]</h3>
+<!--<partial name="_StatusMessage" for="StatusMessage" /> -->
+<!--Phase 16, step 4: User Profile Management and Password Reset - Test the full Identity Flow - Error: File Content is being displayed literally-->
+<partial name="_StatusMessage" model="Model.StatusMessage"/>
+<div class="row">
+    <div class="col-md-6">
+        <form id="profile-form" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="Username" class="form-control" placeholder="Please choose your username." disabled />
+                <label asp-for="Username" class="form-label"></label>
+            </div>
+            <div class="mb-3">
+                <a class="btn btn-outline-secondary" href="/Identity/Account/Manage/ChangePassword" style="width: 30%;">Change Password</a>
+                <a class="btn btn-outline-secondary" href="/Identity/Account/ForgotPassword" style="width: 30%;">Forgot Password</a>
+                <a class="btn btn-outline-secondary" href="/Identity/Account/ResetPassword" style="width: 30%;">Reset Password</a>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.PhoneNumber" class="form-control" placeholder="Please enter your phone number."/>
+                <label asp-for="Input.PhoneNumber" class="form-label"></label>
+                <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+            <button id="update-profile-button" type="submit" class="w-100 btn btn-lg btn-primary">Save</button>
+            </div>
+        @if(User.IsInRole("Admin"))
+        {
+            <div class="mb-3">
+                <a class="btn btn-primary" href="/Admin">Admin Dashboard</a>
+            </div>
+        }
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

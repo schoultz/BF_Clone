@@ -1,0 +1,35 @@
+@model IList<BostadStockholm.Core.Entities.Apartment>
+
+@{
+    ViewData["Title"] = "Available Apartments";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Address</th>
+            <th>Rooms</th>
+            <th>Area (m²)</th>
+            <th>Rent (SEK)</th>
+            <th>Available From</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var apt in Model)
+        {
+            <tr>
+                <td>@apt.Property?.Address</td>
+                <td>@apt.Rooms</td>
+                <td>@apt.Area</td>
+                <td>@apt.MonthlyRent</td>
+                <td>@apt.AvailableFrom?.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <a asp-controller="Apartment" asp-action="Details" asp-route-id="@apt.Id" class="btn btn-primary">View</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
