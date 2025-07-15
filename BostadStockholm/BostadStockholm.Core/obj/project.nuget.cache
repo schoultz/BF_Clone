@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NNVALToNI74=",
+  "dgSpecHash": "BkGGziJpqHk=",
   "success": true,
-  "projectFilePath": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj",
+  "projectFilePath": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ellas\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\Ellas\\.nuget\\packages\\fluentnhibernate\\3.4.1\\fluentnhibernate.3.4.1.nupkg.sha512",

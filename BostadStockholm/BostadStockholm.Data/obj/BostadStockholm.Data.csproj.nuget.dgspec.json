@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj": {}
+    "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj": {}
   },
   "projects": {
-    "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj": {
+    "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj",
         "projectName": "BostadStockholm.Core",
-        "projectPath": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj",
+        "projectPath": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj",
         "packagesPath": "C:\\Users\\Ellas\\.nuget\\packages\\",
-        "outputPath": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\obj\\",
+        "outputPath": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "D:\\ella.schoultz\\Documents\\BostadStockholm\\NuGet.Config",
+          "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\NuGet.Config",
+          "C:\\Users\\Ellas\\NuGet.Config",
           "C:\\Users\\Ellas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -26,10 +27,9 @@
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.optimizely.com/feed/packages.svc/": {}
+          "https://api.nuget.optimizely.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
@@ -82,20 +82,21 @@
         }
       }
     },
-    "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj": {
+    "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj",
         "projectName": "BostadStockholm.Data",
-        "projectPath": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj",
+        "projectPath": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj",
         "packagesPath": "C:\\Users\\Ellas\\.nuget\\packages\\",
-        "outputPath": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\obj\\",
+        "outputPath": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "D:\\ella.schoultz\\Documents\\BostadStockholm\\NuGet.Config",
+          "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\NuGet.Config",
+          "C:\\Users\\Ellas\\NuGet.Config",
           "C:\\Users\\Ellas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -104,17 +105,16 @@
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.optimizely.com/feed/packages.svc/": {}
+          "https://api.nuget.optimizely.com/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj": {
-                "projectPath": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj"
+              "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj": {
+                "projectPath": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Core\\BostadStockholm.Core.csproj"
               }
             }
           }

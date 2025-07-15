@@ -17,129 +17,129 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BostadStockholm.web
 build_property.RootNamespace = BostadStockholm.web
-build_property.ProjectDir = D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.web\
+build_property.ProjectDir = C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.web
+build_property.MSBuildProjectDirectory = C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Web
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/Register.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/Shared/_StatusMessage.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/Shared/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcU2hhcmVkXF9TdGF0dXNNZXNzYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Account/AccessDenied.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Admin/Index.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Apartment/Details.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Apartment/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Apartment/Index.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Apartment/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBhcnRtZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Home/Error404.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Home/Error404.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvcjQwNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Home/Index.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Home/Privacy.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Shared/Error.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/_ViewImports.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/_ViewStart.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/ella.schoultz/Documents/BostadStockholm/BostadStockholm.web/Views/Shared/_Layout.cshtml]
+[C:/Users/Ellas/OneDrive/Dokument/GitHub/BF_Clone/BostadStockholm/BostadStockholm.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-mj02bsz0z7

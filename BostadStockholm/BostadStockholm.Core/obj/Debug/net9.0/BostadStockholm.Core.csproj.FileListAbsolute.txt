@@ -10,3 +10,16 @@ D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0
 D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\refint\BostadStockholm.Core.dll
 D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.pdb
 D:\ella.schoultz\Documents\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\ref\BostadStockholm.Core.dll
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\bin\Debug\net9.0\BostadStockholm.Core.deps.json
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\bin\Debug\net9.0\BostadStockholm.Core.dll
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\bin\Debug\net9.0\BostadStockholm.Core.pdb
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.csproj.AssemblyReference.cache
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.AssemblyInfoInputs.cache
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.AssemblyInfo.cs
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.sourcelink.json
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.dll
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\refint\BostadStockholm.Core.dll
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\BostadStockholm.Core.pdb
+C:\Users\Ellas\OneDrive\Dokument\GitHub\BF_Clone\BostadStockholm\BostadStockholm.Core\obj\Debug\net9.0\ref\BostadStockholm.Core.dll

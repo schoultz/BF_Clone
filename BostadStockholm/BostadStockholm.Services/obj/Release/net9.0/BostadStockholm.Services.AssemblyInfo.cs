@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BostadStockholm.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d71c815c7e900a065c6b4a18d9fd9a43a69e15")]
 [assembly: System.Reflection.AssemblyProductAttribute("BostadStockholm.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BostadStockholm.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wyqpe9cVkIk=",
+  "dgSpecHash": "KxU9jvNUi8g=",
   "success": true,
-  "projectFilePath": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Services\\BostadStockholm.Services.csproj",
+  "projectFilePath": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Services\\BostadStockholm.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ellas\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\Ellas\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

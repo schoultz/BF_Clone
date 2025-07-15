@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mKAUpN4Aunk=",
+  "dgSpecHash": "ho0SzduPHAA=",
   "success": true,
-  "projectFilePath": "D:\\ella.schoultz\\Documents\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj",
+  "projectFilePath": "C:\\Users\\Ellas\\OneDrive\\Dokument\\GitHub\\BF_Clone\\BostadStockholm\\BostadStockholm.Data\\BostadStockholm.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ellas\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\Ellas\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

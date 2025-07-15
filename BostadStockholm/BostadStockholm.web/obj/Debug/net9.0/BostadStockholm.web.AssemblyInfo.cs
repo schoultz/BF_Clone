@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BostadStockholm.web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1d71c815c7e900a065c6b4a18d9fd9a43a69e15")]
 [assembly: System.Reflection.AssemblyProductAttribute("BostadStockholm.web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BostadStockholm.web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
